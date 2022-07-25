@@ -1,0 +1,15 @@
+/Users/Sergey/Documents/Учеба С#/LastTask/LastTask1/bin/Debug/net6.0/LastTask1
+/Users/Sergey/Documents/Учеба С#/LastTask/LastTask1/bin/Debug/net6.0/LastTask1.deps.json
+/Users/Sergey/Documents/Учеба С#/LastTask/LastTask1/bin/Debug/net6.0/LastTask1.runtimeconfig.json
+/Users/Sergey/Documents/Учеба С#/LastTask/LastTask1/bin/Debug/net6.0/LastTask1.dll
+/Users/Sergey/Documents/Учеба С#/LastTask/LastTask1/bin/Debug/net6.0/LastTask1.pdb
+/Users/Sergey/Documents/Учеба С#/LastTask/LastTask1/obj/Debug/net6.0/LastTask1.csproj.AssemblyReference.cache
+/Users/Sergey/Documents/Учеба С#/LastTask/LastTask1/obj/Debug/net6.0/LastTask1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Sergey/Documents/Учеба С#/LastTask/LastTask1/obj/Debug/net6.0/LastTask1.AssemblyInfoInputs.cache
+/Users/Sergey/Documents/Учеба С#/LastTask/LastTask1/obj/Debug/net6.0/LastTask1.AssemblyInfo.cs
+/Users/Sergey/Documents/Учеба С#/LastTask/LastTask1/obj/Debug/net6.0/LastTask1.csproj.CoreCompileInputs.cache
+/Users/Sergey/Documents/Учеба С#/LastTask/LastTask1/obj/Debug/net6.0/LastTask1.dll
+/Users/Sergey/Documents/Учеба С#/LastTask/LastTask1/obj/Debug/net6.0/refint/LastTask1.dll
+/Users/Sergey/Documents/Учеба С#/LastTask/LastTask1/obj/Debug/net6.0/LastTask1.pdb
+/Users/Sergey/Documents/Учеба С#/LastTask/LastTask1/obj/Debug/net6.0/LastTask1.genruntimeconfig.cache
+/Users/Sergey/Documents/Учеба С#/LastTask/LastTask1/obj/Debug/net6.0/ref/LastTask1.dll
